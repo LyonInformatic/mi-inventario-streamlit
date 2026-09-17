@@ -1,0 +1,11 @@
+# Entorno virtual generado por VS Code
+.env/
+.venv/
+
+# Base de datos local (para que no sobreescriba la del celular)
+*.db
+*.sqlite3
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
